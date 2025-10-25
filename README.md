@@ -1,11 +1,3 @@
-<style>
-body {
-  background-image: url('./md-pngs/md-background.png');
-  background-repeat: repeat;
-  background-color: #f0f0f0;
-}
-</style>
-
 <h1 style="color:#fc0;">Hanoi Towers</h1>
 
 <p>
