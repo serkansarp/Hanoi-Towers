@@ -37,4 +37,3 @@ Serkan SARP @ 2025 / Ankara<br>
 <a href="https://www.linkedin.com/in/serkansarp" style="color: yellow; text-decoration: none;">linkedin.com/in/serkansarp</a>
 
 </p>
-

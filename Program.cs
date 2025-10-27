@@ -24,14 +24,14 @@ Stack<int>[] kuleler = { kule1, kule2, kule3 };
 
 
 // Giriş ekranı
-Console.Write("\n\u250C");
+Console.Write("\n   \u250C");
 Console.Write(new string('\u2500', 40));
 Console.WriteLine("\u2510");
-Console.WriteLine("\u2502  HANOI KULELERİ by Serkan SARP @ 2025  \u2502");
-Console.Write("\u2514");
+Console.WriteLine("   \u2502  HANOI KULELERİ by Serkan SARP @ 2025  \u2502");
+Console.Write("   \u2514");
 Console.Write(new string('\u2500', 40));
-Console.WriteLine("\u2518");
-Console.WriteLine("\n- Oyun, 3 kule ve 3-7 arası diskten oluşur.");
+Console.WriteLine("\u2518\n");
+Console.WriteLine("- Oyun, 3 kule ve 3-7 arası diskten oluşur.");
 Console.WriteLine("- Amaç, sol kuledeki diskleri en sağdakine taşımaktır.");
 Console.WriteLine("- Alınan disk, boş bir kuleye taşınabilir,");
 Console.WriteLine("  konulacak kulede en üstte, kendisinden büyük bir disk olmalıdır.");
@@ -208,12 +208,12 @@ void KuleleriYazdir()
     Stack<int> kule3Kopya = new Stack<int>(kule3.Reverse());
     while (kule3Kopya.Count < diskSayisi)
         kule3Kopya.Push(0);
-
-    Console.Write("\n\u250C");
+    
+    Console.Write("\n   \u250C");
     Console.Write(new string('\u2500', 40));
     Console.WriteLine("\u2510");
-    Console.WriteLine("\u2502  HANOI KULELERİ by Serkan SARP @ 2025  \u2502");
-    Console.Write("\u2514");
+    Console.WriteLine("   \u2502  HANOI KULELERİ by Serkan SARP @ 2025  \u2502");
+    Console.Write("   \u2514");
     Console.Write(new string('\u2500', 40));
     Console.WriteLine("\u2518\n");
 

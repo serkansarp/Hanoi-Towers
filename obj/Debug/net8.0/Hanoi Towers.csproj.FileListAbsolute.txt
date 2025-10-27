@@ -26,3 +26,4 @@
 /home/syd/Code/Repos/Hanoi Towers/obj/Debug/net8.0/Hanoi Towers.pdb
 /home/syd/Code/Repos/Hanoi Towers/obj/Debug/net8.0/Hanoi Towers.genruntimeconfig.cache
 /home/syd/Code/Repos/Hanoi Towers/obj/Debug/net8.0/ref/Hanoi Towers.dll
+/home/syd/Code/Repos/Hanoi Towers/obj/Debug/net8.0/Hanoi Towers.sourcelink.json
